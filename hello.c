@@ -9,5 +9,6 @@
 
 int main(int argc, char **argv) {
   printf("Chris Bourke\n");
+  printf("Computer Science\n");
   return 0;
 }
